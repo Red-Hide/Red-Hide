@@ -7,7 +7,7 @@
 
 <p align="center">📫 How to reach me <b>guillaume.ferrand67@gmail.com</b></p>
 
-<p align="center">📄 Know about my experiences <a src="https://guillaume-dev.ovh" target="_blank">https://guillaume-dev.ovh</a></p>
+<p align="center">📄 Know about my experiences <a href="https://guillaume-dev.ovh" target="_blank">https://guillaume-dev.ovh</a></p>
 
 <p align="center">✨ My interests: <b>Gaming, Reading, Watching Anime, Japan, Music</b></p>
 
